@@ -1,0 +1,24 @@
+@import "reset.css";/* сбрoc настроек браузера */
+@import "layout.css"; /* макет  */
+@import "content.css"; /* контент / содержимое  */
+@import "responsive.css";/* адаптивность */
+@font-face {
+  font-family: "BebasNeueBold";
+  src: url("../fonts/BebasNeue-Bold.ttf") format("woff");
+}
+@font-face {
+  font-family: "BebasNeueRegular";
+  src: url("../fonts/BebasNeue-Regular.ttf") format("woff");
+}
+@font-face {
+  font-family: "BebasNeueBook";
+  src: url("../fonts/BebasNeue-Book.ttf") format("woff");
+}
+@font-face {
+  font-family: "BebasNeueLight";
+  src: url("../fonts/BebasNeue-Light.ttf") format("woff");
+}
+@font-face {
+  font-family: "BebasNeueThin";
+  src: url("../fonts/BebasNeue-Thin.ttf") format("woff");
+}
