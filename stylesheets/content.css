@@ -208,35 +208,20 @@ background:url('../img/i9.jpg');
 .tenblock{
   white-space: nowrap;
   box-sizing: border-box;
-background:url('../img/i4.png');
   vertical-align: top;
   height: 900px;
   width: 100%;
   margin: 0px;
 }
-
-.titres{
-  white-space: normal;
-  display: inline-block;
-  width: 25%;
-  vertical-align: top;
-  color:#FED605;
-  font-size: 57px;
-  font-weight: 400;
-  padding-top:210px;
-  padding-left: 334px;
-}
-.tenblock .titres: first-child {
-	margin-right: 0%;
+.op{
+  box-sizing: border-box;
+  height: 900px;
+  width: 100%;
+  background: url('../img/r1.png');
 }
 
-.regular{
-  color:#FED605;
-  font-size: 74px;
-  font-weight: 400;
-  padding-top: 52px;
-  padding-left: 32px;
-}
+
+
 .block{
   box-sizing: border-box;
   height: 900px;
