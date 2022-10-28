@@ -168,6 +168,13 @@ background:url('../img/i9.jpg');
   height: 900px;
   width: 100%;
 }
+.book{
+  color:#FED605;
+  font-size: 74px;
+  font-weight: 200;
+  padding-top: 52px;
+  padding-left: 32px;
+}
 .starring{
     font-size: 58px;
     text-align: center;
